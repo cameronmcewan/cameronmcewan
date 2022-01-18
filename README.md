@@ -1,4 +1,14 @@
 ### Hi there 👋
+📍 I'm from Manchester but have been based in Bristol for the last 5 years (UK)!
+
+🙋🏼‍♂️ My pronouns are: he/him
+
+🎓 I’m currently working towards an MSc in Financial Technology with Data Science at the University of Bristol, UK
+
+⌨️ I am currently working on several projects using Python, R, AWS and soon Tableau.
+
+⚽️ I'm a massive football fan! 
+
 
 <!--
 **cameronmcewan/cameronmcewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
