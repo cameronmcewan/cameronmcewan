@@ -1,5 +1,5 @@
 ### Hi there 👋
-📍 I'm from Manchester but have been based in Bristol for the last 5 years (UK)!
+📍 I'm from Manchester but I now live in Bristol (UK)
 
 🙋🏼‍♂️ My pronouns are: he/him
 
