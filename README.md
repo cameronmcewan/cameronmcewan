@@ -1,8 +1,12 @@
 ### Hi, I'm @cameronmcewan 👋
 
+</a>
+<a href="https://www.linkedin.com/in/cameron-mcewan/">
+  <img align="left" alt="Cam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
 📍 I'm from Manchester but I currently live in Bristol (UK)
 
-🙋🏼‍♂️ My pronouns are: he/him
+🙋🏼‍♂️ Pronouns: he/him
 
 🎓 I’m currently stuying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
 
