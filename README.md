@@ -7,6 +7,10 @@
 <br />
 <br />
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
+
+<p align="left">
+  
 🙋🏼‍♂️ Pronouns: he/him
 
 📍 I'm from Manchester but I currently live in Bristol (UK)
@@ -17,27 +21,29 @@
 
 ⚽️ I have lots of other interests, especially sport - I'm a massive football fan! 
 
+
 __________
 __________
 
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cameronmcewan&show_icons=true&theme=radical)](https://github.com/cameronmcewan/github-readme-stats) -->
-[![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=cameronmcewan&show_icons=true&theme=radical)](https://github.com/cameronmcewan/github-readme-stats)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<p align="center"> 
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code> 
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+  
+<p align="center"> 
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-
-<!--
-**cameronmcewan/cameronmcewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+<br /> 
+<br /> 
+ 
+<img align="centre" height="150" src="https://github-readme-stats.vercel.app/api?username=cameronmcewan&show_icons=true&theme=radical" alt="cameronmcewan stats" />
+<img align="centre" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronmcewan&show_icons=true&theme=radical" alt="cameronmcewan stats" />
+  
