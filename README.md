@@ -4,7 +4,7 @@
 
 🙋🏼‍♂️ My pronouns are: he/him
 
-🎓 I’m currently stuying Financial Technology with Data Science MSc at the University of Bristol, UK
+🎓 I’m currently stuying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
 
 ⌨️ I am currently working on several projects using Python, R, AWS, Tableau, Solidity
 
