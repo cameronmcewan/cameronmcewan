@@ -4,11 +4,11 @@
   <img align="left" alt="Cam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-📍 I'm from Manchester but I currently live in Bristol (UK)
-
 🙋🏼‍♂️ Pronouns: he/him
 
-🎓 I’m currently stuying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
+📍 I'm from Manchester but I currently live in Bristol (UK)
+
+🎓 Currently stuying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
 
 ⌨️ I am currently working on several projects using Python, R, AWS, Tableau, Solidity
 
