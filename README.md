@@ -4,6 +4,8 @@
   <img align="left" alt="Cam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br />
+
 🙋🏼‍♂️ Pronouns: he/him
 
 📍 I'm from Manchester but I currently live in Bristol (UK)
