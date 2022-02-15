@@ -1,6 +1,6 @@
 ### Hi, I'm @cameronmcewan 👋
 
-📍 I'm from Manchester but I now live in Bristol (UK)
+📍 I'm from Manchester but I currently live in Bristol (UK)
 
 🙋🏼‍♂️ My pronouns are: he/him
 
