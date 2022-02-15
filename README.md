@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi, I'm @cameronmcewan 👋
+
 📍 I'm from Manchester but I now live in Bristol (UK)
 
 🙋🏼‍♂️ My pronouns are: he/him
 
-🎓 I’m currently working towards an MSc in Financial Technology with Data Science at the University of Bristol, UK
+🎓 I’m currently stuying Financial Technology with Data Science MSc at the University of Bristol, UK
 
-⌨️ I am currently working on several projects using Python, R, AWS and soon Tableau.
+⌨️ I am currently working on several projects using Python, R, AWS, Tableau, Solidity
 
-⚽️ I'm a massive football fan! 
+⚽️ I have lots of other interests, especially sport - I'm a massive football fan! 
 
 __________
 __________
