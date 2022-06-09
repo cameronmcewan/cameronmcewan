@@ -16,13 +16,13 @@
 
 ⚽️ I have lots of other interests, especially sport - I'm a massive football fan! 
 
+__________
+__________
+
 <img align="right" style="float:right; height:100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronmcewan&show_icons=true&theme=radical" alt="cameronmcewan stats" />
 <img align="right" style="float:right; height:100px" src="https://github-readme-stats.vercel.app/api?username=cameronmcewan&show_icons=true&theme=radical" alt="cameronmcewan stats" />
   
 </p>
-
-__________
-__________
 
 
 <p align="center"> 
