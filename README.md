@@ -2,7 +2,7 @@
   
 🙋🏼‍♂️ Pronouns: he/him
 
-📍 I'm from Manchester but I currently live in Bristol (UK)
+📍 I live in Stockport, UK
 
 📚 Studying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
 
