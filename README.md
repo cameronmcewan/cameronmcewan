@@ -2,16 +2,13 @@
   
 🙋🏼‍♂️ Pronouns: he/him
 
-📍 I live in Stockport, UK
+📍 I live in Manchester, UK
 
-📚 Studying [Financial Technology with Data Science MSc](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at the University of Bristol, UK
+🎓 MSc in [Financial Technology with Data Science](http://www.bristol.ac.uk/study/postgraduate/2022/eng/msc-financial-technology-with-data-science/) at (University of Bristol)
 
-🎓 BEng in Engineering Design
+🎓 BEng in Engineering Design (University of Bristol)
 
 ⌨️ I am currently working on several projects using Python, R, AWS, Tableau, Solidity
-
-⚽️ I have lots of other interests, especially sport - I'm a massive football fan! 
-
 __________
 
 Programming skills:
